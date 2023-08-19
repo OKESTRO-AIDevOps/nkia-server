@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/OKESTRO-AIDevOps/nkia/pkg/apistandard"
 	ctrl "github.com/OKESTRO-AIDevOps/nkia/src/controller"
 	"github.com/OKESTRO-AIDevOps/nkia/src/modules"
-	"github.com/OKESTRO-AIDevOps/npia-api/pkg/apistandard"
 	"github.com/gorilla/websocket"
 )
 
